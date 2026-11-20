@@ -10,4 +10,5 @@ dependencies = [
     "numpy>=2.4.6",
     "torch>=2.15.0",
     "torcheval>=0.0.7",
+    "torchviz>=0.0.3",
 ]
