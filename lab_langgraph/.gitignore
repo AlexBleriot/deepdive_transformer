@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.langgraph_api/
+chroma_db/
+
+# Virtual environments
+.venv
+.env

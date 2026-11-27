@@ -12,5 +12,8 @@ dependencies = [
     "langchain-openai>=1.8.5",
     "langchain-text-splitters>=1.2.0",
     "langgraph>=1.2.24",
+    "langgraph-cli[inmem]>=0.4.44",
+    "pypdf>=7.2.0",
     "python-dotenv>=1.2.4",
+    "tiktoken>=0.14.0",
 ]
